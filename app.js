@@ -5,7 +5,8 @@ $(document).ready(function(){
         // Optional parameters
         direction: 'horizontal',
         autoplay: 5000,
-        speed: 2000,
+        speed: 1400,
+        autoplayDisableOnInteraction: false,
         loop: true,
         parallax: true,
 
