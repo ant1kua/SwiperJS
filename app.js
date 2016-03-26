@@ -3,7 +3,7 @@ $(document).ready(function(){
     var mySwiper = new Swiper ('.swiper-container', {
 
         // Optional parameters
-        direction: 'horizontal',
+        direction: 'vertical',
         autoplay: 5000,
         speed: 1400,
         autoplayDisableOnInteraction: false,
